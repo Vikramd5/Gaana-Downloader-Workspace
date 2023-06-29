@@ -1,0 +1,21 @@
+[submodule "Gaana-API"]
+	path = Gaana-API
+	url = https://github.com/Vikramd5/Gaana-API.git
+[submodule "Gaana-Playlist-Fetcher"]
+	path = Gaana-Playlist-Fetcher
+	url = https://github.com/Vikramd5/Gaana-Playlist-Fetcher.git
+[submodule "gaana-gownloader-ui"]
+	path = gaana-gownloader-ui
+	url = https://github.com/Vikramd5/gaana-gownloader-ui.git
+[submodule "Gaana_Model"]
+	path = Gaana_Model
+	url = https://github.com/Vikramd5/Gaana_Model.git
+[submodule "Gaana-Zipper"]
+	path = Gaana-Zipper
+	url = https://github.com/Vikramd5/Gaana-Zipper.git
+[submodule "Gaana-Song-Fetcher"]
+	path = Gaana-Song-Fetcher
+	url = https://github.com/Vikramd5/Gaana-Song-Fetcher.git
+[submodule "Gaana-Request_processor"]
+	path = Gaana-Request_processor
+	url = https://github.com/Vikramd5/Gaana-Request_processor.git
